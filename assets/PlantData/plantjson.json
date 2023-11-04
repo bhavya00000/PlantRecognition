@@ -328,5 +328,141 @@
     "GeneralInfo": "Turmeric, scientifically known as Curcuma longa, is a flowering plant native to South Asia. It is known for its bright orange-yellow rhizomes, which are used to produce the popular spice, turmeric. Turmeric is widely cultivated for its culinary, medicinal, and coloring properties.",
     "MedicinalInfo": "Turmeric contains a compound called curcumin, which has been extensively studied for its potential health benefits. It is known for its anti-inflammatory and antioxidant properties. Turmeric is used in traditional medicine for various purposes, including pain relief and as an immune system booster. It is a key ingredient in many Indian dishes and is used in traditional remedies.",
     "CultivationInfo": "Turmeric plants require well-drained soil and partial sunlight. They are commonly grown in tropical and subtropical regions. Turmeric rhizomes are harvested, dried, and ground to produce the spice used in a wide range of culinary dishes and beverages."
+  },
+  {
+    "Name": "Sandalwood",
+    "GeneralInfo": "A semi-parasitic tree native to India and Southeast Asia. It is known for its fragrant wood, which is used in perfumes, incense, and religious ceremonies.",
+    "MedicinalInfo": "Sandalwood oil has been used for centuries in traditional medicine to treat a variety of ailments, including skin diseases, respiratory problems, and digestive disorders.",
+    "CultivationInfo": "Sandalwood trees are slow-growing and require a warm, humid climate. They are typically propagated from seed and can take up to 20 years to reach maturity."
+  },
+  {
+    "Name": "Jamaica cherry",
+    "GeneralInfo": "A small tree or shrub native to Mexico and Central America. It is known for its sweet, edible fruits, which are used in pies, jams, and other desserts.",
+    "MedicinalInfo": "Jamaica cherry leaves have been used in traditional medicine to treat a variety of ailments, including diabetes, diarrhea, and inflammation.",
+    "CultivationInfo": "Jamaica cherry trees are easy to grow and can be grown in a variety of climates. They are typically propagated from seed or cuttings."
+  },
+  {
+    "Name": "Indian Mint, Mexican mint",
+    "GeneralInfo": "A perennial herb native to Southeast Asia. It is known for its aromatic leaves, which are used in cooking and traditional medicine.",
+    "MedicinalInfo": "Indian mint leaves have been used in traditional medicine to treat a variety of ailments, including respiratory problems, digestive disorders, and skin diseases.",
+    "CultivationInfo": "Indian mint is a very easy-to-grow herb. It can be grown in the ground or in containers in a variety of climates. It can be propagated from seed, cuttings, or division."
+  },
+  {
+    "Name": "Oriental mustard",
+    "GeneralInfo": "A leafy green vegetable native to Asia. It is known for its pungent flavor and is used in a variety of dishes, including salads, stir-fries, and soups.",
+    "MedicinalInfo": "Oriental mustard seeds have been used in traditional medicine to treat a variety of ailments, including respiratory problems, digestive disorders, and skin diseases.",
+    "CultivationInfo": "Oriental mustard is a cool-season crop that can be grown in a variety of climates. It is typically sown directly in the ground, but it can also be started indoors and transplanted."
+  },
+  {
+    "Name": "Aloe vera",
+    "GeneralInfo": "A succulent plant native to Africa and the Middle East. It is known for its thick, fleshy leaves, which contain a gel that has been used for centuries to treat a variety of ailments.",
+    "MedicinalInfo": "Aloe vera gel has been used in traditional medicine to treat burns, cuts, scrapes, and other skin conditions. It has also been used to treat digestive disorders, respiratory problems, and inflammatory conditions.",
+    "CultivationInfo": "Aloe vera is a very easy-to-grow plant. It can be grown in the ground or in containers in a variety of climates. It can be propagated from offsets or from cuttings."
+  },
+  {
+    "Name": "Garlic",
+    "GeneralInfo": "A bulbous plant native to Central Asia. It is known for its pungent flavor and is used in a variety of dishes around the world.",
+    "MedicinalInfo": "Garlic has been used in traditional medicine for centuries to treat a variety of ailments, including respiratory problems, cardiovascular disease, and cancer.",
+    "CultivationInfo": "Garlic is a cool-season crop that can be grown in a variety of climates. It is typically planted in the fall and harvested in the spring. Garlic can be propagated from cloves or from seed."
+  },
+  {
+    "Name": "Ginger",
+    "GeneralInfo": "A rhizomatous plant native to Southeast Asia. It is known for its pungent flavor and is used in a variety of dishes around the world.",
+    "MedicinalInfo": "Ginger has been used in traditional medicine for centuries to treat a variety of ailments, including nausea, indigestion, and pain.",
+    "CultivationInfo": "Ginger is a tropical plant that can be grown in a variety of climates. It is typically propagated from rhizomes."
+  },
+  {
+    "Name": "Turmeric",
+    "GeneralInfo": "A rhizomatous plant native to Southeast Asia. It is known for its bright yellow color and pungent flavor.",
+    "MedicinalInfo": "Turmeric has been used in traditional medicine for centuries to treat a variety of ailments, including inflammation, arthritis, and digestive disorders.",
+    "CultivationInfo": "Turmeric is a tropical plant that can be grown in a variety of climates. It is typically propagated from rhizomes."
+  },
+  {
+    "Name": "Purple coneflower",
+    "GeneralInfo": "A flowering plant native to North America. It is known for its bright purple flowers and its immune-boosting properties.",
+    "MedicinalInfo": "Purple coneflower has been used in traditional medicine for centuries to treat colds, flu, and other infections.",
+    "CultivationInfo": "Purple coneflower is a hardy plant that can be grown in a variety of climates. It is typically propagated from seed or by division."
+  },
+  {
+    "Name": "Chamomile",
+    "GeneralInfo": "A flowering plant native to Europe and Asia. It is known for its calming"
+  },
+  {
+    "Name": "Aloevera",
+    "GeneralInfo": "A succulent plant with thick, fleshy leaves that contain a gel that is used in a variety of products, including cosmetics, lotions, and sunscreens.",
+    "MedicinalInfo": "Aloe vera gel is used to treat a variety of skin conditions, including burns, sunburns, and eczema. It is also used to treat digestive problems, such as constipation and diarrhea.",
+    "CultivationInfo": "Aloe vera is a relatively easy plant to grow. It can be grown indoors or outdoors, but it prefers full sun and well-drained soil."
+  },
+  {
+    "Name": "Amla",
+    "GeneralInfo": "A deciduous tree native to India and Southeast Asia. The fruit of the amla tree is a small, green fruit that is known for its high vitamin C content.",
+    "MedicinalInfo": "Amla fruit is used to treat a variety of health conditions, including anemia, indigestion, and constipation. It is also used to boost the immune system and promote healthy skin.",
+    "CultivationInfo": "Amla trees can be grown in a variety of climates, but they prefer warm, humid conditions. They can be grown from seed or cuttings."
+  },
+  {
+    "Name": "Amruthaballi",
+    "GeneralInfo": "A deciduous climbing vine native to India and Southeast Asia. The leaves of the amruthaballi plant are used in a variety of Ayurvedic medicines.",
+    "MedicinalInfo": "Amruthaballi leaves are used to treat a variety of health conditions, including fever, malaria, and diabetes. They are also used to boost the immune system and promote overall health.",
+    "CultivationInfo": "Amruthaballi vines can be grown in a variety of climates, but they prefer warm, humid conditions. They can be grown from seed or cuttings."
+  },
+  {
+    "Name": "Arali",
+    "GeneralInfo": "An evergreen tree native to Taiwan and China. The leaves of the arali plant are used in a variety of traditional Chinese medicines.",
+    "MedicinalInfo": "Arali leaves are used to treat a variety of health conditions, including arthritis, rheumatism, and pain. They are also used to boost the immune system and promote overall health.",
+    "CultivationInfo": "Arali trees can be grown in a variety of climates, but they prefer warm, humid conditions. They can be grown from seed or cuttings."
+  },
+  {
+    "Name": "Ashoka",
+    "GeneralInfo": "A deciduous tree native to India and Southeast Asia. The bark of the ashoka tree is used in a variety of Ayurvedic medicines.",
+    "MedicinalInfo": "Ashoka bark is used to treat a variety of gynecological problems, including menstrual cramps, heavy bleeding, and infertility. It is also used to treat skin conditions and boost the immune system.",
+    "CultivationInfo": "Ashoka trees can be grown in a variety of climates, but they prefer warm, humid conditions. They can be grown from seed or cuttings."
+  },
+  {
+    "Name": "Asthma_weed",
+    "GeneralInfo": "A herbaceous annual plant native to tropical and subtropical regions around the world. The whole plant of the asthma weed is used in a variety of traditional medicines.",
+    "MedicinalInfo": "Asthma weed is used to treat a variety of respiratory problems, including asthma, bronchitis, and cough. It is also used to treat skin conditions, diarrhea, and fever.",
+    "CultivationInfo": "Asthma weed can be grown in a variety of climates, but it prefers warm, humid conditions. It can be grown from seed or cuttings."
+  },
+  {
+    "Name": "Badipala",
+    "GeneralInfo": "A deciduous shrub or small tree native to India and Southeast Asia. The leaves of the badipala plant are used in a variety of Ayurvedic medicines.",
+    "MedicinalInfo": "Badipala leaves are used to treat a variety of skin conditions, including acne, eczema, and psoriasis. They are also used to treat respiratory problems, such as asthma and bronchitis.",
+    "CultivationInfo": "Badipala plants can be grown in a variety of climates, but they prefer warm, humid conditions. They can be grown from seed or cuttings."
+  },
+  {
+    "Name": "Balloon_Vine",
+    "GeneralInfo": "A herbaceous annual vine native to tropical and subtropical regions around the world. The whole plant of the balloon vine is used in a variety of traditional medicines.",
+    "MedicinalInfo": "Balloon vine is used to treat a variety of health conditions, including kidney stones, urinary tract infections, and skin conditions. It is also used to boost the immune system and promote overall health.",
+    "CultivationInfo": "Balloon vines can be grown in a variety of climates, but they prefer warm, humid conditions. They can be grown from seed or cuttings."
+  },
+  {
+    "Name": "Bamboo",
+    "GeneralInfo": "A subfamily of grasses that is native to tropical and subtropical regions around the world. The stems of bamboo plants are used in a variety of products, including furniture, construction materials, and musical instruments.",
+    "MedicinalInfo": "Bamboo shoots are used in a variety of Asian cuisines. They are a good source of fiber and vitamins A and C.",
+    "CultivationInfo": "Bamboo plants can be grown in a variety of climates, but they prefer warm, humid conditions. They can be grown from seed."
+  },
+  {
+    "Name": "Betel",
+    "GeneralInfo": "A perennial evergreen climbing vine native to Southeast Asia. The leaves of the betel vine are used in a variety of Asian cultures.",
+    "MedicinalInfo": "Betel leaves are used to freshen breath and improve digestion. They are also used in traditional medicine to treat a variety of health conditions, such as asthma, bronchitis, and diarrhea.",
+    "CultivationInfo": "Betel vines can be grown in a variety of climates, but they prefer warm, humid conditions. They can be grown from seed or cuttings."
+  },
+  {
+    "Name": "Bringaraja",
+    "GeneralInfo": "A perennial herbaceous plant native to tropical and subtropical regions around the world. The whole plant of the bringaraja is used in a variety of traditional medicines.",
+    "MedicinalInfo": "Bringaraja is used to treat a variety of health conditions, including liver problems, hair loss, and skin conditions. It is also used to boost the immune system and promote overall health.",
+    "CultivationInfo": "Bringaraja plants can be grown in a variety of climates, but they prefer warm, humid conditions. They can be grown from seed or cuttings."
+  },
+  {
+    "Name": "Beans",
+    "GeneralInfo": "A herbaceous annual plant native to Central and South America. The seeds of the bean plant are a staple food in many cultures.",
+    "MedicinalInfo": "Beans are a good source of protein, fiber, and vitamins. They are also low in fat and calories.",
+    "CultivationInfo": "Beans can be grown in a variety of climates, but they prefer warm, sunny conditions. They can be grown from seed or seedlings."
+  },
+  {
+    "Name": "Bhrami",
+    "GeneralInfo": "A perennial herbaceous plant native to India and Southeast Asia. The leaves of the bhrami plant are used in a variety of Ayurvedic medicines.",
+    "MedicinalInfo": "Bhrami leaves are used to improve memory, cognitive function, and focus. They are also used to treat anxiety, depression, and insomnia.",
+    "CultivationInfo": "Bhrami plants can be grown in a variety of climates, but they prefer warm, humid conditions. They can be grown from seed or cuttings."
   }
 ]
